@@ -502,13 +502,13 @@ button {
   margin-left: 70px;
 }
 
-.join-title {
+.footer-title {
   font-weight: 700;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #ffffff;
+  color: var(--primary-white-color);
   margin-bottom: 20px;
 }
 
@@ -545,16 +545,6 @@ button {
 
 .form-mail {
   margin-left: 93px;
-}
-
-.form-text {
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 1.14;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: var(--primary-white-color);
-  margin-bottom: 20px;
 }
 
 .form-field {
