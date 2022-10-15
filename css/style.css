@@ -562,6 +562,10 @@ button {
   color: rgba(255, 255, 255, 0.6);
 }
 
+.form-field:focus-within input {
+  outline: none;
+}
+
 .form-mail-btn {
   width: 200px;
   height: 50px;
